@@ -1,4 +1,4 @@
-# Good News
+# Good News app
 
 A simple project created by me to implement the **MVVM** design pattern. This app has a broad and superficial approach.
 
